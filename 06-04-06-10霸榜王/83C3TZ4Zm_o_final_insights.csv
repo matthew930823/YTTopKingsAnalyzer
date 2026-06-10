@@ -1,0 +1,69 @@
+﻿Comment_Text,Source_Row_Index,CKIP_Analysis_Text,CKIP_Matched_Pairs,CKIP_Matched_Pair_Count,CKIP_Matched_Sentences,Stage1_Relevance_Score,Gemini_Emotion,Gemini_Reason,Gemini_Model
+"I'm really obsessed with Winter and Giselle's rap part the most, so addictive. My favorite song this year. I love it so so much.",141,我最迷的是Winter和Giselle的饒舌部分，太讓人上癮了。今年最喜歡的歌。我非常喜歡它。,人|上癮; 人|饒舌; 歌|喜歡,3,我 最 迷 的 是 Winter 和 Giselle 的 饒舌 部分 ， 太 讓 人 上癮 了 || 今年 最 喜歡 的 歌,3,興奮,對歌曲極度著迷,gemini-3.1-flash-lite
+"0:39 WINTER RAP SO FAST AND ADDICTIVEEE OMGG, MY MINJEONGGG",340,0:39 冬季饒舌如此快速且令人上癮天哪，我的 MINJEONGGG,人|上癮; 人|快速; 人|饒舌; 天|上癮; 天|快速,5,0:39   冬季 饒舌 如此 快速 且 令 人 上癮 天 哪 ， 我 的  MINJEONGGG,3,興奮,讚嘆成員饒舌表現,gemini-3.1-flash-lite
+"OMG NINGNING ""MUCHAS GRACIAS MI AMOR""",354,天啊寧寧“非常感謝你我的愛”,你我|感謝; 天|感謝; 寧寧|感謝; 愛|感謝,4,天 啊 寧寧 “ 非常 感謝 你我 的 愛 ”,3,興奮,喜愛特定歌詞片段,gemini-3.1-flash-lite
+"as expected, aespa came back to save kpop with their second full album lemonade. So harder than we all thought and no wonder cause its aespa. SONG OF THE YEAR.",23,正如預期的那樣，aespa 帶著他們的第二張完整專輯《檸檬水》回來拯救了韓國流行音樂。比我們想像的還要難，難怪會出現 aespa。年度歌曲。,專輯|完整; 檸檬水|完整; 音樂|流行,3,正 如 預期 的 那樣 ， aespa  帶 著 他們 的 第二 張 完整 專輯 《 檸檬水 》 回來 拯救 了 韓國 流行 音樂,2,興奮,高度讚賞回歸作品,gemini-3.1-flash-lite
+"4 vocalists, 4 visuals, 4 dancers, 4 rappers, 4 all rounders, 4 aces, 4 members, 4 girls, 4 queens aespa never dissapoints!!!!",27,4 位主唱、4 位視覺師、4 位舞者、4 位饒舌歌手、4 位全能選手、4 位王牌選手、4 位成員、4 位女孩、4 位皇后 aespa 永遠不會讓人失望！,人|失望; 歌手|全能; 歌手|饒舌; 王牌|全能; 舞者|饒舌; 選手|全能,6,4  位 主唱 、 4  位 視覺師 、 4  位 舞者 、 4  位 饒舌 歌手 、 4  位 全能 選手 、 4  位 王牌 選手 、 4  位 成員 、 4  位 女孩 、 4   位 皇后  aespa  永遠 不會 讓 人 失望,2,興奮,讚美成員全能表現,gemini-3.1-flash-lite
+This performance is exactly what I needed It deserves more views.,113,這樣的表現正是我所需要的，值得更多人觀看。,人|值得; 人|需要; 表現|這樣; 表現|需要,4,這樣 的 表現 正 是 我 所 需要 的 ， 值得 更多 人 觀看,2,感動,表演療癒且值得推廣,gemini-3.1-flash-lite
+"WINTER DEFINETLY OWNED THIS
+this song is so addictive",120,"冬天絕對有這個
+這首歌太讓人上癮了",人|上癮; 歌|上癮,2,這 首 歌 太 讓 人 上癮 了,2,興奮,稱讚成員表現與歌曲,gemini-3.1-flash-lite
+Winter rap is so satisfying,122,冬季饒舌太令人滿意了,人|滿意; 人|饒舌,2,冬季 饒舌 太 令 人 滿意 了,2,興奮,喜愛饒舌段落,gemini-3.1-flash-lite
+"Bro the ""muchas gracias mi amor"" is so addictive",140,兄弟的「非常感謝你，我的愛」太讓人上癮了,人|上癮; 兄弟|感謝; 愛|上癮; 愛|感謝,4,兄弟 的 「 非常 感謝 你 ， 我 的 愛 」 太 讓 人 上癮 了,2,興奮,對特定歌詞上癮,gemini-3.1-flash-lite
+"Heard it in the street of Ikebukuro, Japan today and searched it❤ the song is so addictive 🔥😍",174,今天在日本池袋街頭聽到並搜了一下❤這首歌太讓人上癮了🔥😍,人|上癮; 歌|上癮,2,今天 在 日本 池袋 街頭 聽到 並 搜 了 一下 ❤ 這 首 歌 太 讓 人 上癮 了 🔥 😍,2,興奮,街頭聽到後被吸引,gemini-3.1-flash-lite
+"의외로 에스파가 청량이 잘 맞음.
+스파이시 위플레시 수퍼노바 그리고 레몬네이드
+레몬네이드가 스파이시+위플레시 조합이라고 봄",297,"令人驚訝的是，Espa 令人耳目一新。
+辣鞭超新星和檸檬水
+我認為檸檬水是辛辣和鞭打的結合。",人|耳目一新; 人|驚訝; 檸檬水|辛辣,3,令 人 驚訝 的 是 ， Espa  令 人 耳目一新 || 我 認為 檸檬水 是 辛辣 和 鞭打 的 結合,2,中立,分析歌曲風格組合,gemini-3.1-flash-lite
+"THE FIRST VERSE IS SO FREAKING ADDICTIVE.
+GIGI, KARI ANS WINTYS RAP WAS SO FIRE
+OMGGG I LOVE THIS SONG SO FREAKING MUCH",304,"第一節就非常令人上癮。
+GIGI、KARI ANS WINTY 的饒舌太火了
+天哪，我非常喜歡這首歌",人|上癮; 歌|喜歡,2,第一 節 就 非常 令 人 上癮 || 天哪 ， 我 非常 喜歡 這 首 歌,2,興奮,極度喜愛歌曲與饒舌,gemini-3.1-flash-lite
+"NINGNING'S ""MUCHAS GRACIAS MI AMOR"" IM OBSESSED",314,寧寧的《非常感謝你我的愛》我著迷,寧寧|感謝; 愛|感謝,2,寧寧 的 《 非常 感謝 你 我 的 愛 》 我 著迷,2,興奮,對特定歌詞著迷,gemini-3.1-flash-lite
+1:33 NINGNING SAYING MUCHAS GRACIAS MI AMOR IS SO ADDICTIVE,334,1:33 寧寧說非常感謝我的愛是如此令人上癮,人|上癮; 愛|上癮; 愛|感謝,3,1:33  寧寧 說 非常 感謝 我 的 愛 是 如此 令 人 上癮,2,興奮,認為歌詞非常洗腦,gemini-3.1-flash-lite
+"1:34 NINGNING ""MUCHAS GRACIAS MI AMOR"" ITS HEALING ME",366,1:34 寧寧「非常感謝你我的愛」它治癒了我,寧寧|感謝; 愛|感謝,2,1:34   寧寧 「 非常 感謝 你我 的 愛 」 它 治癒 了 我,2,感動,覺得歌詞具有療癒感,gemini-3.1-flash-lite
+MUCHAS GRACIAS MI AMOR!!!!,375,非常感謝你我的愛！ ！ ！ ！,你我|感謝; 愛|感謝,2,非常 感謝 你我 的 愛,2,興奮,熱情引用歌詞,gemini-3.1-flash-lite
+Such an addicted song..,422,這麼讓人上癮的歌..,人|上癮; 歌|上癮,2,這麼 讓 人 上癮 的 歌 . .,2,興奮,認為歌曲很洗腦,gemini-3.1-flash-lite
+1:33 MUCHAS GRACIAS MI AMOR 🗣️🔥,441,1:33 非常感謝你我的愛🗣️🔥,你我|感謝; 愛|感謝,2,1:33  非常 感謝 你我 的 愛 🗣️🔥,2,興奮,對特定歌詞感到激動,gemini-3.1-flash-lite
+This performance is exactly what I needed It deserves more views.,469,這樣的表現正是我所需要的，值得更多人觀看。,人|值得; 人|需要; 表現|這樣; 表現|需要,4,這樣 的 表現 正 是 我 所 需要 的 ， 值得 更多 人 觀看,2,感動,表演療癒且值得推廣,gemini-3.1-flash-lite
+1:35 MUCHAS GRACIAS MI AMOR 🗣️,497,1:35 非常感謝你我的愛🗣️,你我|感謝; 愛|感謝,2,1:35  非常 感謝 你我 的 愛 🗣 ️,2,興奮,熱情引用歌詞,gemini-3.1-flash-lite
+Definition of Aespa for me: Omg Giselle looks amazing. Ohhh ningning looking flawless too! Holy winter is so freaking pretty. Karina is perfection. Then repeat for the entire MV,3,Aespa 對我的定義：天哪，吉賽兒看起來棒極了。哦哦，寧寧看起來也完美無瑕！神聖的冬天真是太美了。卡琳娜是完美的。然後重複整個MV,卡琳娜|完美; 吉賽兒|棒; 寧寧|完美; 寧寧|無瑕,4,Aespa  對 我 的 定義 ： 天哪 ， 吉賽兒 看起來 棒 極了 || 哦 哦 ， 寧寧 看起來 也 完美 無瑕 || 卡琳娜 是 完美 的,1,興奮,讚嘆成員美貌,gemini-3.1-flash-lite
+"finally listening to an actual K-pop in proper Korean, u go queens!!!",18,終於用正宗的韓語聽到了真正的韓國流行音樂，你加油！ ！ ！,音樂|流行,1,終於 用 正宗 的 韓語 聽到 了 真正 的 韓國 流行 音樂 ， 你 加油,1,興奮,讚賞韓語歌曲品質,gemini-3.1-flash-lite
+the more i listen to more addicted i get omg,22,我聽得越多就越上癮，天哪,天|上癮; 天|多,2,我 聽 得 越 多 就 越 上癮 ， 天 哪,1,興奮,越聽越上癮,gemini-3.1-flash-lite
+Finally aespa comeback full album,29,aespa終於回歸完整專輯,專輯|完整,1,aespa 終於 回歸 完整 專輯,1,期待,對正規專輯感到開心,gemini-3.1-flash-lite
+Aespa is why K-Pop will never get boring,35,Aespa 是韓國流行音樂永遠不會無聊的原因,原因|無聊; 音樂|流行; 音樂|無聊,3,Aespa  是 韓國 流行 音樂 永遠 不會 無聊 的 原因,1,興奮,認為團體充滿魅力,gemini-3.1-flash-lite
+"“WAIT, OMG, STOP” WILL BE MY NEWW FAV LINE",46,「等等，天啊，停下來」將是我最喜歡的新台詞,台詞|喜歡; 台詞|新; 天啊|停下來,3,「 等等 ， 天啊 ， 停下來 」 將 是 我 最 喜歡 的 新 台詞,1,興奮,喜愛特定歌詞行,gemini-3.1-flash-lite
+"4 Divas 4 Artists 4 Rappers 4 vocalists 4 Queens.
+The finally comeback full group 😭🙏",51,"4 位女歌手 4 位藝人 4 位饒舌歌手 4 位歌手 4 位皇后。
+終於全團回歸了🙏🙏",歌手|饒舌; 藝人|饒舌,2,4   位 女 歌手  4   位 藝人  4   位 饒舌 歌手  4   位 歌手  4   位 皇后,1,感動,對團體回歸感到激動,gemini-3.1-flash-lite
+Winter's rap line is so satisfying on first verse,71,Winter 的饒舌台詞在第一節就非常令人滿意,人|滿意; 台詞|饒舌,2,Winter  的 饒舌 台詞 在 第一 節 就 非常 令 人 滿意,1,興奮,喜愛饒舌段落,gemini-3.1-flash-lite
+That fact that all aespa members are all rapping in this song at different times is amazing it shows how unique that they are. Aespa have no skips.,73,所有 aespa 成員在不同時間都在這首歌中說唱，這一事實令人驚訝，這表明他們是多麼獨特。 Aespa 沒有跳過。,事實|驚訝; 人|驚訝; 成員|不同; 時間|不同,4,所有  aespa  成員 在 不同 時間 都 在 這 首 歌 中 說唱 ， 這 一 事實 令 人 驚訝 ， 這 表明 他們 是 多麼 獨特,1,興奮,讚賞成員饒舌實力,gemini-3.1-flash-lite
+Winter doing both rap and high note in one song is Next Level,93,Winter 在一首歌曲中同時表演饒舌和高音是下一個級別,歌曲|饒舌; 高音|饒舌,2,Winter   在 一 首 歌曲 中 同時 表演 饒舌 和 高音 是 下 一 個 級別,1,興奮,讚嘆成員全能表現,gemini-3.1-flash-lite
+This comeback highlight is Giselle. Sm finally remembered that Aespa have a main rapper.,103,此次回歸的亮點是吉賽爾。 Sm終於想起來Aespa有一個主要的饒舌歌手。,歌手|饒舌,1,Sm 終於 想起來 Aespa 有 一 個 主要 的 饒舌 歌手,1,興奮,滿意成員分配表現,gemini-3.1-flash-lite
+"IM NOT EVEN KIDDING, THIS IS ACTUALLY ONE OF THE BEST 2026 KPOP COMEBACKS SO FAR. JUST AESPA THINGS!!!!!",108,我不是開玩笑，這實際上是迄今為止最好的 2026 年韓國流行音樂回歸之一。只是 AESPA 的東西！ ！ ！ ！,音樂|好; 音樂|流行,2,我 不 是 開玩笑 ， 這 實際 上 是 迄 今 為止 最 好 的  2026 年 韓國 流行 音樂 回歸 之 一,1,興奮,高度評價年度回歸,gemini-3.1-flash-lite
+"I can't wait for the full album reaction, it's the best work aespa have done!",115,我已經等不及完整專輯的反應了，這是 aespa 所做的最好的工作！,反應|完整; 專輯|完整; 工作|好,3,我 已經 等不及 完整 專輯 的 反應 了 ， 這 是  aespa  所 做 的 最 好 的 工作,1,期待,期待專輯反應影片,gemini-3.1-flash-lite
+the more you listen to this song the more addictive it becomes,128,這首歌越聽越上癮,歌|上癮,1,這 首 歌 越 聽 越 上癮,1,興奮,歌曲越聽越洗腦,gemini-3.1-flash-lite
+"The styling is really something else,  it's refreshing",132,造型真別有一番風味，讓人耳目一新,人|耳目一新; 風味|耳目一新,2,造型 真 別有 一 番 風味 ， 讓 人 耳目一新,1,興奮,讚賞造型風格,gemini-3.1-flash-lite
+Giselle getting so many lines??????WTF!!! Sm finally remembered aespa rappers,138,吉賽兒有這麼多台詞？ ？ ？ ？ ？ ？ WTF！ ！ ！ Sm終於想起aespa饒舌歌手,歌手|饒舌,1,Sm 終於 想起 aespa 饒舌 歌手,1,興奮,對分配到更多段落感到,gemini-3.1-flash-lite
+THIS BANGER DESERVES MORE VIEWS,146,這個爛片值得更多人觀看,人|值得; 爛片|值得,2,這 個 爛片 值得 更多 人 觀看,1,興奮,認為歌曲值得更多關注,gemini-3.1-flash-lite
+This is addictive song. I can't stop playing this,150,這是一首讓人上癮的歌曲。我無法停止玩這個,人|上癮; 歌曲|上癮,2,這 是 一 首 讓 人 上癮 的 歌曲,1,興奮,歌曲洗腦停不下來,gemini-3.1-flash-lite
+so addictive omg can't stop listening,170,太讓人上癮了，天哪，無法停止聆聽,人|上癮,1,太 讓 人 上癮 了 ， 天哪 ， 無法 停止 聆聽,1,興奮,對歌曲極度上癮,gemini-3.1-flash-lite
+AESPA DID IT AGAIN !!! I LOVED THIS SONG AND THE WHOLE ALBUM!!! 🍋,176,AESPA 又做到了！我喜歡這首歌和整張專輯！ 🍋,歌|喜歡,1,我 喜歡 這 首 歌 和 整 張 專輯,1,興奮,對專輯感到滿意,gemini-3.1-flash-lite
+the more you listen to this song the more addictive it becomes,199,這首歌越聽越上癮,歌|上癮,1,這 首 歌 越 聽 越 上癮,1,興奮,歌曲越聽越洗腦,gemini-3.1-flash-lite
+WINTER RAPPING AND THE HIGH NOTE MAEMM PERIODD,210,冬季饒舌和高音 MAEMM 時期,時期|饒舌; 高音|饒舌,2,冬季 饒舌 和 高音  MAEMM  時期,1,興奮,讚嘆成員實力表現,gemini-3.1-flash-lite
+11 MILLIONS OMG AESPA IS ON FIRE AND A FULL ALBUM OMG,229,1100 萬張 OMG AESPA 火紅了，還有一張完整專輯 OMG,專輯|完整,1,1100  萬 張  OMG AESPA  火紅 了 ， 還 有 一 張 完整 專輯  OMG,1,興奮,對觀看數與回歸激動,gemini-3.1-flash-lite
+"The ""I'll make it Lemonade"" line is so addictive",231,「我要做檸檬水」這句台詞太讓人上癮了,人|上癮; 台詞|上癮,2,「 我 要 做 檸檬 水 」 這 句 台詞 太 讓 人 上癮 了,1,興奮,喜愛特定歌詞,gemini-3.1-flash-lite
+"Giselle has such a natural flow when she raps, it makes every verse sound addictive",237,吉賽兒說唱時的流暢感讓每一節都讓人上癮,人|上癮,1,吉賽兒 說唱 時 的 流暢感 讓 每 一 節 都 讓 人 上癮,1,興奮,讚賞饒舌流暢度,gemini-3.1-flash-lite
+노래 진짜 시원하다 이게 에스파식 청량이야...,240,這首歌確實讓人耳目一新。這是Espa風格的清爽...,人|耳目一新; 歌|耳目一新; 風格|清爽,3,這 首 歌 確實 讓 人 耳目一新 || 這 是 Espa 風格 的 清爽 ...,1,興奮,喜愛清爽歌曲風格,gemini-3.1-flash-lite
+에스파는 실망시키지 않는다ㅋㅋㅋㅋㅋㅋㅋㅋㅋ 비트 느낌 개좋음,252,Espa果然沒有讓人失望哈哈哈哈。節奏感覺真的很好。,人|失望; 感覺|好; 節奏|好,3,Espa 果然 沒有 讓 人 失望 哈哈 哈哈 || 節奏 感覺 真的 很 好,1,興奮,讚賞節奏與團體表現,gemini-3.1-flash-lite
+Omg Giselle’s parts are amazing and I’m glad that she has a lot of lines in this song,258,天哪，吉賽兒的部分太棒了，我很高興她在這首歌中有很多台詞,吉賽兒|棒; 歌|高興,2,天哪 ， 吉賽兒 的 部分 太 棒 了 ， 我 很 高興 她 在 這 首 歌 中 有 很多 台詞,1,興奮,滿意成員段落分配,gemini-3.1-flash-lite
+"WINTER'S RAP, HIGHNOTES AND PRETTY + HOT + HANDSOME VISUAL IN THIS MV??? THIS IS WINTER ERA",268,冬季的饒舌、高音和漂亮+熱辣+帥氣的視覺在這支MV中？ ？ ？這是冬季時代,視覺|帥氣; 視覺|熱; 視覺|辣; 高音|漂亮; 高音|熱; 高音|辣; 高音|饒舌,7,冬季 的 饒舌 、 高音 和 漂亮 + 熱 辣 + 帥氣 的 視覺 在 這 支 MV 中,1,興奮,讚嘆成員全方位表現,gemini-3.1-flash-lite
+"Expected: A sweet, refreshing summer drink ☀️🍋
+Received: A cyberpunk, heavy-bass, reality-bending cinematic masterpiece 🛸🔥
+aespa doesn't just make comebacks, they literally hack the K-pop simulation.
+MYs drop a 🍋 if you agree!",273,"期待：甜甜清爽的夏日飲品☀️🍋
+得獎作品：賽博龐克、重低音、扭曲現實的電影傑作🛸🔥
+aespa 不僅捲土重來，他們還真正破解了韓國流行音樂模擬。
+如果您同意，我的朋友們就給我一個🍋吧！",們|同意; 朋友|同意; 音樂|流行; 飲品|清爽; 飲品|甜甜,5,期待 ： 甜甜 清爽 的 夏日 飲品 ☀️🍋 || aespa  不僅 捲土重來 ， 他們 還 真正 破解 了 韓國 流行 音樂 模擬 || 如果 您 同意 ， 我 的 朋友 們 就 給 我 一 個 🍋 吧,1,興奮,讚嘆作品超越期待,gemini-3.1-flash-lite

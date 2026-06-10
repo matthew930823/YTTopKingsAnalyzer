@@ -1,0 +1,64 @@
+﻿Comment_Text,Source_Row_Index,CKIP_Analysis_Text,CKIP_Matched_Pairs,CKIP_Matched_Pair_Count,CKIP_Matched_Sentences,Stage1_Relevance_Score,Gemini_Emotion,Gemini_Reason,Gemini_Model
+"Kratos: my best friend is a talking head
+Faye: my best friend is a talking cube",24,"奎托斯：我最好的朋友是會說話的人
+Faye：我最好的朋友是一個會說話的立方體",奎托斯|好; 朋友|好,2,奎托斯 ： 我 最 好 的 朋友 是 會 說話 的 人 || Faye ： 我 最 好 的 朋友 是 一 個 會 說話 的 立方體,2,中立,單純描述角色設定,gemini-3.1-flash-lite
+"Now I understand why Kratos said she fought beautifully!
+Girl is an absolute unit!!",83,"現在我明白為什麼奎托斯說她打得漂亮了！
+女孩子絕對是一個整體！ ！",奎托斯|明白; 奎托斯|漂亮,2,現在 我 明白 為什麼 奎托斯 說 她 打 得 漂亮 了,2,興奮,讚嘆角色戰鬥力強,gemini-3.1-flash-lite
+Yes for sure this Kratos wife. I can’t wait to play the game.,85,是的，奎托斯的妻子肯定是這樣。我等不及要玩遊戲了。,奎托斯|肯定; 奎托斯|這樣; 妻子|肯定; 妻子|這樣,4,是 的 ， 奎托斯 的 妻子 肯定 是 這樣,2,期待,迫不及待想玩遊戲,gemini-3.1-flash-lite
+Everyone else got cool and mythological names. Meanwhile Frank and Rue: Most Modern Names,119,其他人都有很酷且神話般的名字。同時，弗蘭克和魯：最現代的名字,人|酷; 名字|現代; 名字|酷; 弗蘭克|現代; 神話|酷; 魯|現代,6,其他 人 都 有 很 酷 且 神話 般 的 名字 || 同時 ， 弗蘭克 和 魯 ： 最 現代 的 名字,2,反諷,吐槽名字過於現代,gemini-3.1-flash-lite
+Frank the cube cutely wadaling over to him watching,404,立方體弗蘭克可愛地走到他身邊觀看,弗蘭克|可愛; 立方體|可愛,2,立方體 弗蘭克 可愛 地 走到 他 身邊 觀看,2,感動,覺得方塊很可愛,gemini-3.1-flash-lite
+Cool mythological name: FRANK! 🎉🎉🎉,467,酷炫的神話名字：弗蘭克！ 🎉🎉🎉,名字|炫; 名字|酷; 神話|炫; 神話|酷,4,酷 炫 的 神話 名字 ： 弗蘭克,2,反諷,嘲諷名字缺乏神話感,gemini-3.1-flash-lite
+Frank the cube cutely wadaling over to him watching.,488,立方體弗蘭克可愛地走到他身邊觀看。,弗蘭克|可愛; 立方體|可愛,2,立方體 弗蘭克 可愛 地 走到 他 身邊 觀看,2,感動,覺得方塊動作可愛,gemini-3.1-flash-lite
+Got to the afterlife and immediately started throwing hands and collecting bodies. That's Kratos' woman alright,1,到達來世後，立即開始投擲雙手並收集屍體。這就是奎托斯的女人好吧,奎托斯|好; 女人|好,2,這 就 是 奎托斯 的 女人 好 吧,1,興奮,認同其戰鬥風格,gemini-3.1-flash-lite
+"""Afterlife of the gods""
+At this point half the population there must have been sent down by Kratos.",10,"《諸神的來世》
+此時，那裡的一半人口肯定已經被奎托斯送下去了。",人口|肯定; 奎托斯|肯定,2,此時 ， 那裡 的 一半 人口 肯定 已經 被 奎托斯 送下去 了,1,興奮,聯想奎爺的戰績,gemini-3.1-flash-lite
+Kratos wasn’t lying when he said she fought beautifully,13,奎托斯說她打得漂亮，他並沒有說謊,奎托斯|漂亮,1,奎托斯 說 她 打 得 漂亮 ， 他 並 沒有 說謊,1,感動,認同奎爺的評價,gemini-3.1-flash-lite
+Wish they put this much effort into Kratos combat. but hey it is what it is I guess,58,希望他們在奎托斯的戰鬥中投入這麼多精力。但嘿，我猜就是這樣,奎托斯|希望,1,希望 他們 在 奎托斯 的 戰鬥 中 投入 這麼多 精力,1,憤怒,對戰鬥設計不滿,gemini-3.1-flash-lite
+Now I understand why Kratos heard her voice in the world of the elves; his wife was very much alive. 😮,61,現在我明白了為什麼奎托斯會在精靈世界聽到她的聲音了；他的妻子還活著。 😮,奎托斯|明白; 妻子|活,2,現在 我 明白 了 為什麼 奎托斯 會 在 精靈 世界 聽到 她 的 聲音 了 || 他 的 妻子 還 活 著,1,興奮,解開劇情疑惑,gemini-3.1-flash-lite
+Today’s kids don’t know how much 90’s fellas love that ps2/ps3 jump and double jump,65,現在的孩子不知道90後有多少人喜歡ps2/ps3跳躍和二段跳,人|喜歡; 人|知道; 孩子|知道,3,現在 的 孩子 不 知道 90 後 有 多少 人 喜歡 ps2/ps3 跳躍 和 二 段 跳,1,中立,懷舊遊戲機制,gemini-3.1-flash-lite
+"Literally unplayable, the bird call in the beginning is of a North American mourning dove which would not be found in Scandinavia. The Eurasian collared dove would have been a more location accurate choice, but their coo's are less distinctive than the ""coo-OOO-ooo-ooo"" of the mourning dove.
+
+Game looks sick tho",66,"從字面上看，無法播放，開頭的鳥叫聲是北美哀鴿的叫聲，在斯堪的納維亞半島找不到。歐亞頸斑鳩是一個位置更準確的選擇，但它們的咕咕聲不如哀鴿的“咕-嗚-嗚-嗚”那麼獨特。
+
+遊戲看起來很噁心",位置|準確; 叫聲|哀鴿; 咕咕聲|“咕; 咕咕聲|哀鴿; 斯堪的納維亞半島|哀鴿; 遊戲|噁心; 鳥叫聲|哀鴿,7,從 字面 上 看 ， 無法 播放 ， 開頭 的 鳥叫聲 是 北美 哀鴿 的 叫聲 ， 在 斯堪的納維亞半島 找 不 到 || 歐亞頸 斑鳩 是 一 個 位置 更 準確 的 選擇 ， 但 它們 的 咕咕聲 不如 哀鴿 的 “咕 - 嗚 - 嗚 - 嗚” 那麼 獨特 || 遊戲 看起來 很 噁心,1,反諷,考據癖後的轉折,gemini-3.1-flash-lite
+Faye moving like doctor strange was not something I expected,77,Faye 像《奇異博士》那樣的動作出乎我的意料,動作|奇異; 動作|那樣; 博士|奇異; 博士|那樣,4,Faye  像 《 奇異 博士 》 那樣 的 動作 出乎 我 的 意料,1,興奮,驚訝於戰鬥動作,gemini-3.1-flash-lite
+Kratos would absolutely go berserker mode if he found out his wife was being treated like this in the afterlife. He’d kill all them.,81,如果奎托斯發現他的妻子在來世受到這樣的對待，他絕對會變得狂暴模式。他會殺掉他們所有人。,妻子|這樣; 模式|狂暴,2,如果 奎托斯 發現 他 的 妻子 在 來世 受到 這樣 的 對待 ， 他 絕對 會 變 得 狂暴 模式,1,期待,想像奎爺護妻,gemini-3.1-flash-lite
+"Everybody who hates Laufey, for sure got psychological issue with his mother. Scientists  put it in the test.",102,每個討厭勞菲的人肯定都和他的母親有心理問題。科學家們對其進行了測試。,人|肯定; 人|討厭; 勞菲|肯定; 勞菲|討厭; 母親|肯定,5,每 個 討厭 勞菲 的 人 肯定 都 和 他 的 母親 有 心理 問題,1,憤怒,批評討厭角色的網友,gemini-3.1-flash-lite
+Now I understand why Kratos calmed tf down after meeting her. Girl's an absolute BEAST in combat 😂,117,現在我明白為什麼奎托斯在見到她後就平靜下來了。女孩在戰鬥中絕對是野獸😂,奎托斯|明白,1,現在 我 明白 為什麼 奎托斯 在 見到 她 後 就 平靜下來 了,1,興奮,讚嘆角色戰鬥力,gemini-3.1-flash-lite
+9:20 Feels like I'm witnessing a Shrek 1 here with all the imprisoning of pretty cute creatures,118,9:20 感覺就像我在這裡目睹了怪物史萊克1，裡面關押著所有可愛的生物,生物|可愛,1,9:20  感覺 就 像 我 在 這裡 目睹 了 怪物 史萊克 1 ， 裡面 關押 著 所有 可愛 的 生物,1,中立,聯想史瑞克電影,gemini-3.1-flash-lite
+I can see now why Kratos fell in love with her,133,我現在明白為什麼奎托斯愛上她了,奎托斯|明白,1,我 現在 明白 為什麼 奎托斯 愛上 她 了,1,感動,理解奎爺的愛,gemini-3.1-flash-lite
+"""Find your way home, you are FREE.""
+ - Kratos",153,"“找到回家的路，你是自由的。”
+ - 奎托斯",路|自由,1,“ 找到 回家 的 路 ， 你 是 自由 的,1,感動,引用經典台詞,gemini-3.1-flash-lite
+"1. Designers need new character.
+2. Designers open new document in Blender.
+3. Character completed.",157,"1.設計師需要新的性格。
+2. 設計師在Blender中開啟新文件。
+3.角色完成。",性格|新; 性格|需要; 文件|新; 設計師|新; 設計師|需要,5,1. 設計師 需要 新 的 性格 || 2.  設計師 在 Blender 中 開啟 新 文件,1,反諷,嘲諷設計過於隨意,gemini-3.1-flash-lite
+Kratos wasn’t lying when he said she fought beautifully,172,奎托斯說她打得漂亮，他並沒有說謊,奎托斯|漂亮,1,奎托斯 說 她 打 得 漂亮 ， 他 並 沒有 說謊,1,感動,認同奎爺的評價,gemini-3.1-flash-lite
+0:11 legit had to double take the mourning dove call because we have those all around where I live,176,0:11 我必須仔細聆聽哀鴿的叫聲，因為我住的地方到處都是鴿子的叫聲,叫聲|仔細; 叫聲|哀鴿,2,0:11   我 必須 仔細 聆聽 哀鴿 的 叫聲 ， 因為 我 住 的 地方 到處 都 是 鴿子 的 叫聲,1,中立,對鳥叫聲感到親切,gemini-3.1-flash-lite
+Yeah i see why Kratos fell for this woman.,179,是的，我明白為什麼奎托斯會愛上這個女人了。,奎托斯|明白,1,是 的 ， 我 明白 為什麼 奎托斯 會 愛上 這 個 女人 了,1,感動,理解奎爺的愛,gemini-3.1-flash-lite
+I hope she sees Kratos when he went through the light of Alfhiem.,192,我希望當奎托斯穿過阿爾菲姆之光時她能看到他。,奎托斯|希望; 阿爾菲姆|希望,2,我 希望 當 奎托斯 穿過 阿爾菲姆 之 光 時 她 能 看到 他,1,期待,希望劇情有連結,gemini-3.1-flash-lite
+I can tell why Kratos fell for her,217,我知道奎托斯為何愛上她,奎托斯|知道,1,我 知道 奎托斯 為何 愛上 她,1,感動,理解奎爺的愛,gemini-3.1-flash-lite
+Please tell me that the lovely creature that helped her at the beginning is still alive😣😣😣,274,請告訴我當初幫助她的可愛生物還活著😣😣😣,生物|可愛; 生物|活,2,請 告訴 我 當初 幫助 她 的 可愛 生物 還 活 著 😣😣 😣,1,感動,擔心生物的安危,gemini-3.1-flash-lite
+"6:12 Finally, Now I know where  Kratos gets the habit of treating  coffins ⚰️ as Treasure Chest LOL😂😂😆",288,6:12 終於知道奎托斯從哪裡養成了把棺材⚰️當作寶箱的習慣了哈哈😂😂😆,奎托斯|知道,1,6:12  終於 知道 奎托斯 從 哪裡 養成 了 把 棺材 ⚰️ 當作 寶箱 的 習慣 了 哈哈 😂😂 😆,1,興奮,對開箱習慣感到好笑,gemini-3.1-flash-lite
+If kratos knew what lufay is going through in the after life,312,如果奎托斯知道盧菲在來世正在經歷什麼,奎托斯|知道; 盧菲|知道,2,如果 奎托斯 知道 盧菲 在 來世 正在 經歷 什麼,1,期待,對後續劇情好奇,gemini-3.1-flash-lite
+"1:08 “Find your way home, you are free” 
+Thats all I needed to hear, Let’s gooooo!",357,"1:08 “找到回家的路，你自由了”
+這就是我所需要聽到的，讓我們走吧！",路|自由,1,1:08  “ 找到 回家 的 路 ， 你 自由 了 ”,1,興奮,對遊戲充滿熱情,gemini-3.1-flash-lite
+She hit that npc with the Dr. Strange. Now I see how she was able to fight Thor. Very excited for this.,362,她和奇異博士一起擊中了那個npc。現在我知道她是如何與托爾戰鬥的了。對此感到非常興奮。,博士|奇異; 托爾|知道,2,她 和 奇異 博士 一起 擊中 了 那 個 npc || 現在 我 知道 她 是 如何 與 托爾 戰鬥 的 了,1,興奮,期待戰鬥表現,gemini-3.1-flash-lite
+"18:21 Astral projection, like Dr Strange was pretty sick",383,18:21 星體投射，就像奇異博士病得很厲害一樣,博士|一樣; 博士|厲害; 博士|奇異; 博士|病,4,18:21  星體 投射 ， 就 像 奇異 博士 病 得 很 厲害 一樣,1,興奮,讚嘆視覺特效,gemini-3.1-flash-lite
+"I'm the biggest fan out there since the og Gow on ps2....only reason why I always own a ps
+This is gonna be epic!
+Sorry haters",417,"自從 PS2 上的 og Gow 以來，我是最大的粉絲......這是我總是擁有 PS 的唯一原因
+這將是史詩般的！
+對不起討厭的人",人|討厭; 粉絲|大,2,自從  PS2  上 的  og  Gow  以來 ， 我 是 最 大 的 粉絲 ...... 這 是 我 總是 擁有  PS  的 唯一 原因 || 對不起 討厭 的 人,1,興奮,表達對系列的忠誠,gemini-3.1-flash-lite
+I don't understand...How can someone who actually loves games as a medium not like this one. It's beyond me.,442,我不明白......真正熱愛遊戲作為媒介的人怎麼會不喜歡這個。這超出了我的範圍。,人|喜歡; 遊戲|明白,2,我 不 明白 ...... 真正 熱愛 遊戲 作為 媒介 的 人 怎麼 會 不 喜歡 這 個,1,憤怒,不解為何有人討厭,gemini-3.1-flash-lite
+"""Did I mention her best friend is a talking cube??""",456,“我有沒有提到她最好的朋友是一個會說話的立方體？”,朋友|好,1,“ 我 有沒有 提到 她 最 好 的 朋友 是 一 個 會 說話 的 立方體,1,中立,引用對話內容,gemini-3.1-flash-lite
+Kratos knew something,458,奎托斯知道一些事情,事情|知道; 奎托斯|知道,2,奎托斯 知道 一些 事情,1,感動,認同奎爺的眼光,gemini-3.1-flash-lite
+"2018: boy 
+2026: hello karen",478,"2018：男孩
+2026：你好凱倫",凱倫|好,1,2026 ： 你 好 凱倫,1,反諷,嘲諷角色命名,gemini-3.1-flash-lite
+Hello Karen… it’s nice to see you again,487,你好，凱倫……很高興再次見到你,凱倫|好; 凱倫|高興,2,你 好 ， 凱倫 … … 很 高興 再次 見到 你,1,中立,單純打招呼,gemini-3.1-flash-lite
